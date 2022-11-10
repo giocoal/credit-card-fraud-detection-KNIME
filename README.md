@@ -1,11 +1,11 @@
 # Rilevazione delle frodi nelle carte di credito
 ## Progetto per il corso di Machine Learning
-### KNIME HUB - WORKFLOW
 
-https://kni.me/w/c2_iSRBcc1v7b6pU
+- Knime HUB: https://kni.me/w/c2_iSRBcc1v7b6pU
 
-### Descrizione del progetto
+In the financial field, one of the most important aspects is the detection of fraudulent transactions on credit cards. This may be "authorized" fraud, where the cardholder processes a payment to a suspicious account, or "unauthorized" fraud, where the cardholder does not provide any authorization for the transaction, which is carried out by a third party. 
+From an economic point of view, it is essential for financial institutions to be able to detect these transactions in advance: in 2018 the UK suffered credit card fraud amounting to £844.8 million. Nowadays, credit card transactions are very safe, and this is also due to the great effort made by financial institutions in the field of "cyber crimes" detection. In order to complete this task effectively, one of the objectives to be achieved is to identify the best machine learning technique, and in particular the best classifier, that is able to recognize, and consequently block, these types of transactions. The project focuses on counteracting the negative effects that a dataset with unbalanced classes, as in this case, has on finding and estimating the best classifier for forecasting fraudulent transactions. The performance of the models will be evaluated not only through the usual metrics, but also taking into account the computation costs and the quality of the anthropomorphic services provided to the cardholder.
 
-Nell’ambito finanziario, uno degli aspetti più rilevanti è l’individuazione di transazioni fraudolente sulle carte di credito. Si può parlare sia di frodi ”autorizzate”, dove il possessore della carta processa un pagamento verso un account sospetto, che di frodi ”non autorizzate”, dove il possessore della carta non fornisce alcuna autorizzazione alla transazione, che viene eseguita da una terza parte. 
-Dal punto di vista economico, è essenziale per gli istituti nanziari riuscire a individuare preventivamente queste operazioni: nel 2018 il Regno Unito ha subito frodi sulle carte di credito per una ammontare di £844,8 milioni. Al giorno d’oggi, le transazioni operate mediante carte di credito risultano essere molto sicure, e questo èdovuto anche al grande sforzo portato dagli istituti finanziari in materia di individuazioni di ”cyber crimini”. Per riuscire a completare questo compito in maniera efficace, uno degli obiettivi da raggiungere è uello di individuare la migliore tecnica di Machine Learning, e in particolare il miglior classificatore, che sia in grado di riconoscere, e di conseguenza bloccare, questo tipo di transazioni. Il progetto si concentra sul contrastare gli effetti negativi che un dataset con classi sbilanciate, come in questo caso, ha sulla ricerca e stima del miglior classificatore ai fini di previsione delle transazioni fraudolente. Le prestazioni dei modelli saranno valutate non solo tramite le usuali metriche, ma anche tenendo conto dei costi di computazione e rispetto alla qualità dei servizi antrifrode forniti al titolare della carta di credito.
+### Workflow preview
 
+![image](https://user-images.githubusercontent.com/80491610/200969314-3132a7b2-03c1-4c2d-a7e1-1ef0416cab81.png)

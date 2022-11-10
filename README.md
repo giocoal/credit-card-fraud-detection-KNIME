@@ -1,5 +1,6 @@
-# Rilevazione delle frodi nelle carte di credito
-## Progetto per il corso di Machine Learning
+# Credit card fraud detection
+
+## Project for Machine Learning course 2021/22
 
 - Knime HUB: https://kni.me/w/c2_iSRBcc1v7b6pU
 
